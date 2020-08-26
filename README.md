@@ -1,11 +1,11 @@
-ESP-IDF template app
+Exemplo ESP-IDF - Conexão e recebimento de dados por Websocket
 ====================
 
-This is a template application to be used with [Espressif IoT Development Framework](https://github.com/espressif/esp-idf).
+Exemplo simples de conexão e recebimento de dados por websocket.
 
-Please check [ESP-IDF docs](https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html) for getting started instructions.
+## Servidor websocket
+Disponibilizei um exemplo de um servidor websocket para teste rápido deste exemplo. Link do repositório:
 
-*Code in this repository is in the Public Domain (or CC0 licensed, at your option.)
-Unless required by applicable law or agreed to in writing, this
-software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
-CONDITIONS OF ANY KIND, either express or implied.*
+[https://github.com/gustavomaruyama-ifms/exemplo-nodejs-websocket-server.git](https://github.com/gustavomaruyama-ifms/exemplo-nodejs-websocket-server.git)
+
+Siga as instruções no README.md do projeto para executar o servidor.
